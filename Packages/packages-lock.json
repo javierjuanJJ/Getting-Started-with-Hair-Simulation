@@ -41,6 +41,13 @@
       },
       "hash": "e438da69d643fdd1193c2cd3355c9c4d290a156b"
     },
+    "com.unity.demoteam.mesh-to-sdf": {
+      "version": "https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b8bcdbea97608bf37139f00b03474da8fdf076c7"
+    },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
