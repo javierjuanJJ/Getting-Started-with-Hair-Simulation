@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": "1.17.2",
+    "com.unity.demoteam.digital-human": "https://github.com/Unity-Technologies/com.unity.demoteam.digital-human.git",
     "com.unity.demoteam.hair": "https://github.com/Unity-Technologies/com.unity.demoteam.hair.git",
     "com.unity.demoteam.mesh-to-sdf": "https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf.git",
     "com.unity.feature.development": "1.0.1",
