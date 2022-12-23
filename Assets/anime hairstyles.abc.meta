@@ -15,7 +15,7 @@ ScriptedImporter:
     tangents: 1
     cameraAspectRatio: 2
     importVisibility: 1
-    scaleFactor: 0.01
+    scaleFactor: 20
     swapHandedness: 1
     flipFaces: 0
     interpolateSamples: 1
@@ -23,11 +23,11 @@ ScriptedImporter:
     importLinePolygon: 1
     importTrianglePolygon: 1
     importXform: 1
-    importCameras: 1
+    importCameras: 0
     importMeshes: 1
     importPoints: 1
-    importCurves: 1
-    createCurveRenderers: 0
+    importCurves: 0
+    createCurveRenderers: 1
   abcStartTime: 0.041666666666666664
   abcEndTime: 0.041666666666666664
   startTime: 0.041666666666666664
